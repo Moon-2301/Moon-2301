@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Pompita Sil
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Full Stack Web Development 
+- 🌱 Gathering more knowledge on Full Stack Web Development
+
